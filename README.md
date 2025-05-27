@@ -9,7 +9,7 @@ Perfect for presentations, interviews, or self-introduction at tech events.
 
 📂 **Files**
 
-- 📄 [Download the Presentation](portfolio-presentation.pptx)
+- 📄 [Download the Presentation](All-Projects-ppt.pptx)
 
 ---
 
