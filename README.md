@@ -26,7 +26,8 @@ Perfect for presentations, interviews, or self-introduction at tech events.
 
 ### ✅ Project Showcase Slide
 
-![Project Slide](images/slide-preview-1.png)
+![Project Slide](images/All-Projects-1.png)
+![Project Slide](images/All-Projects-2.png)
 
 📌 **Project Goals**
 - Present my previous work in a creative and elegant way
